@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Saas app ceremoni.pl
+I'm currently working on my Saas app - ceremoni.pl
 
 
 # 💻 Tech Stack:
